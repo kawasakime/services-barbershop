@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/services-barbershop/static/js/main.63ccaede.js",
-    "index.html": "/services-barbershop/index.html",
-    "main.63ccaede.js.map": "/services-barbershop/static/js/main.63ccaede.js.map"
+    "main.js": "./static/js/main.c813a125.js",
+    "index.html": "./index.html",
+    "main.c813a125.js.map": "./static/js/main.c813a125.js.map"
   },
   "entrypoints": [
-    "static/js/main.63ccaede.js"
+    "static/js/main.c813a125.js"
   ]
 }
